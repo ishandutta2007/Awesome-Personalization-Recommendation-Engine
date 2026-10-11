@@ -50,7 +50,7 @@ Welcome to **Awesome Personalization Recommendation Engine**! This curated guide
 
 ## ⭐ Open-Source GitHub Projects
 
-Curated open-source recommendation engines, embedding-driven retrieval pipelines, neural collaborative filtering toolkits, and feature stores. Sorted by GitHub stars (descending):
+Curated open-source recommendation engines, embedding-driven retrieval pipelines, neural collaborative filtering toolkits, and feature stores. Sorted by GitHub_Stars (descending):
 
 1. **[Milvus](https://github.com/milvus-io/milvus)** <a href="https://github.com/milvus-io/milvus/stargazers"><img src="https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white" alt="GitHub_Stars"/></a>  
    🚀 **Cloud-native distributed vector database** engineered specifically for massive-scale similarity search and billions-scale neural candidate retrieval in modern two-stage recommender pipelines. *Apache-2.0 Licensed*.
@@ -129,7 +129,7 @@ When architecting a production-scale 1:1 personalization solution:
 ## 🤝 How to Contribute
 
 1. 🍴 Fork the repository.
-2. 📝 Add or edit entries in `README.md` maintaining the table/list structure and social star badges.
+2. 📝 Add or edit entries in `README.md` maintaining the table/list structure and social Stars_Badges.
 3. 📌 Ensure entries include official links, factual descriptions, pricing/licensing context, and verified repositories.
 4. 🚀 Submit a Pull Request with a clear description of your contribution.
 
@@ -165,3 +165,12 @@ Thank you for exploring **Awesome Personalization Recommendation Engine**! If yo
   <b>Built for AI/ML engineers, data scientists, and personalization architects.</b><br/>
   <i>Let's build accurate, ethical, and scalable recommendation engines.</i>
 </p>
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Personalization-Recommendation-Engine&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Personalization-Recommendation-Engine_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Personalization-Recommendation-Engine_growth.svg">
+  </picture>
+</a>
